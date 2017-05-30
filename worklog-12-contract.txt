@@ -3,3 +3,4 @@ group 12 ------ContractManagementSystem
 
 2017.5.29 commit Contract Software System Design Specification by zhangyu.
           terrible github website, can not commit, try after download github for windows.
+2017.5.30 commit Contract Software System Design Specification successfully.
