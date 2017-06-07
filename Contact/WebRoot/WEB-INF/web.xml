@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+	 <!-- Configure the access of IndexServlet -->
+	<servlet>
+		<!-- Set IndexServlet name -->
+		<servlet-name>IndexServlet</servlet-name>
+		<!-- Set the IndexServlet class that processing requests: complete package path + class name -->
+		<servlet-class>web.IndexServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<!-- The IndexServlet name should keep consistent as above-mentioned -->
+		<servlet-name>IndexServlet</servlet-name>
+		<!-- The access path of IndexServlet -->
+		<url-pattern>/IndexServlet</url-pattern>
+	</servlet-mapping>
+	
+</web-app>
