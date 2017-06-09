@@ -5,3 +5,4 @@ group 12 ------ContractManagementSystem
           terrible github website, can not commit, try after download github for windows.
 2017.5.30 commit Contract Software System Design Specification successfully.
 2017.6.07 commit register without dao.
+2017.6.07 17:13 commit register.
