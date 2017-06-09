@@ -6,3 +6,4 @@ group 12 ------ContractManagementSystem
 2017.5.30 commit Contract Software System Design Specification successfully.
 2017.6.07 commit register without dao.
 2017.6.07 17:13 commit register.
+2017.6.09 commit register and login, use jsp, picture is finding.
