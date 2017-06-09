@@ -12,7 +12,7 @@ public class DBUtil {
 		private static String url = "jdbc:mysql://127.0.0.1:3306/contractdb2?useUnicode=true&amp;" +
 				"characterEncoding=utf8"; // Database connection string,the character encoding is utf8
 		private static String user = "root"; // Database account
-		private static String password = "root"; // Database password
+		private static String password = "789789"; // Database password
 		
 		// Static code block,realized to load driver,executed once only when the class is loaded
 		static {
